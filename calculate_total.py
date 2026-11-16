@@ -7,4 +7,3 @@ for i in range(5):
 total = sum(pretul)
 print(f'Pretul Toatal al produselor este: {total}')
 
-
