@@ -8,3 +8,4 @@ total = sum(pretul)
 print(f'Pretul Toatal al produselor este: {total}')
 
 
+
