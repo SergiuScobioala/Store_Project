@@ -23,6 +23,8 @@ This project contains the following files
 - `hello.py`
 - `test.py`
 
+The `data` folder is ignored.
+
 ## 🚀 Steeps to run the project 
 
 Here are some dummy steeps:
